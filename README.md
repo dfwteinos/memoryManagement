@@ -33,6 +33,8 @@ To compile just type  ```make```
 
 And to run: ``` ./main WS Frames q MaxReports ```
 
+https://cs.nyu.edu/courses/spring02/V22.0202-002/wsclock.html
+
 ### LRU
 
 In both folders,to choose and run the LRU algorithm,simple type:
@@ -40,6 +42,8 @@ In both folders,to choose and run the LRU algorithm,simple type:
 ```make ```
 
 ``` ./main LRU Frames q MaxReports  ```
+
+https://www.geeksforgeeks.org/program-for-least-recently-used-lru-page-replacement-algorithm/
 
 ### Further Informations
 
