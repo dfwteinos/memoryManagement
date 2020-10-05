@@ -23,7 +23,7 @@ To compile just type ```make```
 
 And to run: ``` ./main WS frames q MaxReports WindowSize ```
 
-https://www.informit.com/articles/article.aspx?p=25260&seqNum=9
+[Working Set](https://www.informit.com/articles/article.aspx?p=25260&seqNum=9)
 
 ### WSClock
 
@@ -33,7 +33,7 @@ To compile just type  ```make```
 
 And to run: ``` ./main WS Frames q MaxReports ```
 
-https://www.informit.com/articles/article.aspx?p=25260&seqNum=10
+[WSClock](https://www.informit.com/articles/article.aspx?p=25260&seqNum=10)
 
 ### LRU
 
@@ -43,7 +43,7 @@ In both folders,to choose and run the LRU algorithm,simple type:
 
 ``` ./main LRU Frames q MaxReports  ```
 
-https://www.geeksforgeeks.org/program-for-least-recently-used-lru-page-replacement-algorithm/
+[LRU](https://www.geeksforgeeks.org/program-for-least-recently-used-lru-page-replacement-algorithm/)
 
 ### Further Informations
 
