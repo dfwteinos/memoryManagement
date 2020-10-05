@@ -33,7 +33,7 @@ To compile just type  ```make```
 
 And to run: ``` ./main WS Frames q MaxReports ```
 
-https://cs.nyu.edu/courses/spring02/V22.0202-002/wsclock.html
+https://www.informit.com/articles/article.aspx?p=25260&seqNum=10
 
 ### LRU
 
